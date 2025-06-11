@@ -26,9 +26,7 @@ This demo simulates an AI assistant designed to help customer support agents, su
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
-  - [Configuration](#configuration)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Features
 
@@ -57,8 +55,8 @@ Before running the solution, complete the following setup steps:
 
 4. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/moryachok/multilingual-data-agent.git
+   cd multilingual-data-agent
     ```
 ## Prerequisites
 
@@ -91,10 +89,8 @@ Before running the solution, complete the following setup steps:
 
 ## Usage
 
+Go to http://localhost:8501/ in your browser.
 
-## Configuration
 
 ## Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
-
-## License
