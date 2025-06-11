@@ -1,0 +1,13 @@
+streamlit:
+  page_title: "תשאול בשפה טבעית"
+  chat_input_placeholder: "הקלד את ההודעה שלך..."
+  sidebar:
+    header: "מידע חשוב"
+    subheader: "שאלות לדוגמה:"
+  sample_questions:
+    - "כמה לקוחות יש לי?"
+    - "מי אלה?"
+    - "אצל איזה לקוח יש יותר פוליסות?"
+    - "מה הגיל הממוצע של לקוח לפי סוג פוליסה"
+agent:
+  id: asst_Xo1C7cQonEz62Zx4Xxcfntj0
